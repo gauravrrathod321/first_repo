@@ -1,0 +1,1 @@
+console.log("hi note js ,you have server side js")
